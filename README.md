@@ -1,3 +1,5 @@
+UberRides data Analysis using Python 
+
 This project performs a detailed analysis of Uber ride data to uncover patterns, trends, and insights related to ride frequency, popular locations, peak hours, and more. Using Python libraries like Pandas, Matplotlib, and Seaborn, the dataset is cleaned, processed, and visualized to help understand customer behavior and operational trends.
 
 📊 Key Objectives:
